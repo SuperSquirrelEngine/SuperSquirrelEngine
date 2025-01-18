@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SuperSquirrelEngine
-- 👀 I’m interested in Skiing. 
+- 👀 I’m interested in skiing. 
 - 🌱 I’m currently learning SAP FI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
