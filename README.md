@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SuperSquirrelEngine
 - 👀 I’m interested in skiing. 
-- 🌱 I’m currently learning SAP Build
+- 🌱 I’m currently learning SAP Build, Data Engineer
 - 💞️ I’m looking to collaborate on SAP Build issues finance
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
